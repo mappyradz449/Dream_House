@@ -306,7 +306,7 @@
 
 })(jQuery);
 
-//ReAD MOER
+//Read More
 $(document).ready(function(){
 	$("#toggle").click(function(){
 		var element=$("#toggle").text();
